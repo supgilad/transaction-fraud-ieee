@@ -8,3 +8,11 @@ input/train_identity.csv
 input/train_transaction.csv
 
 Twitter Hacked Accounts.pdf
+
+.ipynb_checkpoints/submission-checkpoint.csv
+
+input/test_identity.csv
+
+input/test_transaction.csv
+
+submission.csv
