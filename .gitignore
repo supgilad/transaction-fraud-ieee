@@ -16,3 +16,7 @@ input/test_identity.csv
 input/test_transaction.csv
 
 submission.csv
+
+.ipynb_checkpoints/
+
+data_generation.ipynb
